@@ -24,7 +24,7 @@ I am inspired by the interactive drawing technique in p5.js, where shapes follow
 ## Time-based
 ### Responsible for Yue Zhao
 
-In p5.js, mouseX and mouseY track the cursor position in real time. By using these values with functions like ellipse(), shapes can follow the user's movement. This technique allows dynamic positioning and interaction, making visuals responsive. It can help create moving elements or simulate motion-based effects, which supports the interactive goals of my project.
+In our final project, I'd like to use time-based mechanics to create animate rainfall overtime. For instance, the rainfall may change from light rain to heavy storm, with lighting flashes.
 
 ---
 
