@@ -15,8 +15,6 @@ Our project transforms the immersive experience of Rain Room into a calming digi
 
 We were inspired by the immersive atmosphere and environmental interaction of Rain Room. Instead of preventing rain from touching the user, our project focuses on creating a responsive ASMR-style digital environment that can be used as a relaxing background experience for focus, meditation, or ambience.
 
----
-
 ## The image of Art inspiration sources
 
 ### Images 1
@@ -24,6 +22,8 @@ We were inspired by the immersive atmosphere and environmental interaction of Ra
 
 ### Images 2
 ![example 1](https://jackalopehotels.com/wp-content/uploads/2019/09/JKLP_RainRoom_02.jpg)
+
+---
 
 ## Part 2: Mechanics
 
@@ -33,8 +33,6 @@ We were inspired by the immersive atmosphere and environmental interaction of Ra
 The audio mechanic controls the atmosphere and behaviour of the rain using environmental sound. Our project uses thunder and wind audio tracks as the main drivers of the visual system. Using the p5.sound library, the program analyses the volume and frequency of the sound in real time. When the thunder becomes louder, the rain intensity increases, creating heavier rainfall and a stronger storm effect. Wind sounds control the direction and angle of the rain, causing the rain to tilt left or right depending on the strength of the wind audio.
 
 Users mainly interact with this mechanic through experiencing the changing soundscape and observing how the visuals respond dynamically. The mechanic supports our project vision by transforming the immersive atmosphere of Rain Room into a calming ASMR-style digital environment. The connection between sound and rain movement helps create a cinematic and relaxing experience similar to ambient weather simulations used for focus, sleep, or meditation.
-
----
 
 ## Sketch Images
 
@@ -50,8 +48,6 @@ Users mainly interact with this mechanic through experiencing the changing sound
 ### Responsible for Yue Zhao
 
 In our final project, I'd like to use time-based mechanics to create animate rainfall overtime. For instance, the rainfall may change from light rain to heavy storm, or sudden gusts of wind that tilt the falling direction of the rain, also with lighting flashes, so as to visually present the transformation of the rain room. It strengthens the project’s realistic environmental aesthetic and reflects the natural unpredictability of rainstorms.
-
----
 
 ## Sketch Images
 
@@ -71,6 +67,7 @@ In this section, I aim to strengthen the immersive experience of the digital rai
 
 ### Sketch Images 2
 ![example 2](assets/collide%202.jpeg)
+
 ---
 
 ## Perlin Noise
@@ -79,8 +76,6 @@ In this section, I aim to strengthen the immersive experience of the digital rai
 In our "Digital Rain Room" project, my mechanic is responsible for transforming basic digital lines into an organic, immersive natural phenomenon. I utilize both `random()` and `noise()` functions to achieve this. First, I use `random()` to initialize each raindrop with varying lengths, weights, and falling speeds. This randomness creates a realistic sense of perspective, giving our 2D canvas a feeling of 3D depth, as some drops appear closer and faster while others are distant and slow. 
 
 More importantly, I use the `noise()` function to simulate the continuous, unseen force of wind. Instead of falling strictly straight down, the horizontal movement of the raindrops is driven by a 1-dimensional Perlin noise value. This ensures the entire rain system sways and drifts smoothly together, mimicking fluid dynamics and avoiding the chaotic jitter of pure randomness. Additionally, I will use 2D Perlin noise to generate a slow-moving, subtle background fog, heavily contributing to the meditative and atmospheric aesthetic of our final piece.
-
----
 
 ### Sketch Images 1 Randomness for Depth (Parallax Rain)
 ![Parallax Rain Example](assets/The%20Coding%20Train%20-%20Purple%20Rain.png)
