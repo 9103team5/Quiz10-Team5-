@@ -1,8 +1,6 @@
 # Quiz10-Team5-
 # Quiz10 Final Project
 
----
-
 ## Part1: Projection Direction
 
 ### Project Path
