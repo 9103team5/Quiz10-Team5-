@@ -45,10 +45,10 @@ In our final project, I'd like to use time-based mechanics to create animate rai
 ## Sketch Images
 
 ### Sketch Images 1
-![example 1](https://happycoding.io/tutorials/processing/images/input-1.gif)
+![example 1](assets/rain%201.jpeg)
 
 ### Sketch Images 2
-![example 2](https://happycoding.io/tutorials/processing/images/input-3.gif)
+![example 2](assets/rain%202.jpeg)
 
 
 ## Perlin Noise
