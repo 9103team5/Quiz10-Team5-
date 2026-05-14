@@ -39,10 +39,10 @@ Users mainly interact with this mechanic through experiencing the changing sound
 ## Sketch Images
 
 ### Sketch Images 1
-![example 1](https://happycoding.io/tutorials/processing/images/input-1.gif)
+![example 1](assets/Low%20volume,%20light%20rain.JPG)
 
 ### Sketch Images 2
-![example 2](https://happycoding.io/tutorials/processing/images/input-3.gif)
+![example 2](assets/High%20volume%20Loud%20rain.JPG)
 
 ---
 
