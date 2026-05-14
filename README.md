@@ -57,16 +57,16 @@ More importantly, I use the `noise()` function to simulate the continuous, unsee
 ## User Input
 ### Responsible for Yue Zhao
 
-In p5.js, mouseX and mouseY track the cursor position in real time. By using these values with functions like ellipse(), shapes can follow the user's movement. This technique allows dynamic positioning and interaction, making visuals responsive. It can help create moving elements or simulate motion-based effects, which supports the interactive goals of my project.
+In this section, I want audiences to immerse themselves in the rain room and gain interactive abilities. I plan to use the collide() function to create an umbrella or a bowl. Users can move the mouse to hold this prop and physically block the falling raindrops.
 
 ---
 
 ## Sketch Images
 
 ### Sketch Images 1
-![example 1](https://happycoding.io/tutorials/processing/images/input-1.gif)
+![example 1](assets/collide%201.jpeg)
 
 ### Sketch Images 2
-![example 2](https://happycoding.io/tutorials/processing/images/input-3.gif)
+![example 2](assets/collide%202.jpeg)
 
 ## Part 3: Putting It Together 
