@@ -1,28 +1,38 @@
 # Quiz10-Team5-
 # Quiz10 Final Project
 
+---
 
-Digital Rain Room
-Part 0: Project Direction
+## Part1: Projection Direction
 
-Project Path
+### Project Path
 
 We are creating an original interactive artwork inspired by Rain Room.
 
-Vision and Inspiration
+### Vision and Inspiration
 
 Our project transforms the immersive experience of Rain Room into a calming digital weather simulation using p5.js. At the beginning, rain falls vertically with ambient thunder and wind sounds in the background. As thunder becomes louder, the rain intensity increases and the storm appears heavier. Stronger wind sounds cause the rain to tilt left or right, simulating natural weather movement. The experience runs as a looping 40–60 second atmospheric scene with constantly changing rain patterns and lighting conditions.
 
 We were inspired by the immersive atmosphere and environmental interaction of Rain Room. Instead of preventing rain from touching the user, our project focuses on creating a responsive ASMR-style digital environment that can be used as a relaxing background experience for focus, meditation, or ambience.
 
 ---
-## Part1: Projection Direction
+
+## The image of Art inspiration sources
+
+### Images 1
+![example 1](https://jackalopehotels.com/wp-content/uploads/2023/10/Rain_Room-1924x1250-1-1.jpg)
+
+### Images 2
+![example 1](https://jackalopehotels.com/wp-content/uploads/2019/09/JKLP_RainRoom_02.jpg)
 
 ## Part 2: Mechanics
+
 ### Audio  
 ### Responsible for Zhendong Song
 
-I am inspired by the interactive drawing technique in p5.js, where shapes follow the mouse and update in real time. This creates a direct connection between user input and visual output. I want to use this technique to generate moving shapes that respond to interaction. This is beneficial because it makes the work more engaging and dynamic, which fits the requirement of creating interactive and responsive visual media.
+The audio mechanic controls the atmosphere and behaviour of the rain using environmental sound. Our project uses thunder and wind audio tracks as the main drivers of the visual system. Using the p5.sound library, the program analyses the volume and frequency of the sound in real time. When the thunder becomes louder, the rain intensity increases, creating heavier rainfall and a stronger storm effect. Wind sounds control the direction and angle of the rain, causing the rain to tilt left or right depending on the strength of the wind audio.
+
+Users mainly interact with this mechanic through experiencing the changing soundscape and observing how the visuals respond dynamically. The mechanic supports our project vision by transforming the immersive atmosphere of Rain Room into a calming ASMR-style digital environment. The connection between sound and rain movement helps create a cinematic and relaxing experience similar to ambient weather simulations used for focus, sleep, or meditation.
 
 ---
 
@@ -34,6 +44,7 @@ I am inspired by the interactive drawing technique in p5.js, where shapes follow
 ### Sketch Images 2
 ![example 2](https://happycoding.io/tutorials/processing/images/input-3.gif)
 
+---
 
 ## Time-based
 ### Responsible for Yue Zhao
@@ -50,6 +61,7 @@ In our final project, I'd like to use time-based mechanics to create animate rai
 ### Sketch Images 2
 ![example 2](https://happycoding.io/tutorials/processing/images/input-3.gif)
 
+---
 
 ## Perlin Noise
 ### Responsible for CHUCHU TANG
@@ -74,13 +86,5 @@ More importantly, I use the `noise()` function to simulate the continuous, unsee
 In this section, I want audiences to immerse themselves in the rain room and gain interactive abilities. I plan to use the collide() function to create an umbrella or a bowl. Users can move the mouse to hold this prop and physically block the falling raindrops.
 
 ---
-
-## Sketch Images
-
-### Sketch Images 1
-![example 1](assets/collide%201.jpeg)
-
-### Sketch Images 2
-![example 2](assets/collide%202.jpeg)
 
 ## Part 3: Putting It Together 
