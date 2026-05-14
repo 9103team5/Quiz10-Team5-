@@ -1,6 +1,20 @@
 # Quiz10-Team5-
 # Quiz10 Final Project
 
+
+Digital Rain Room
+Part 0: Project Direction
+
+Project Path
+
+We are creating an original interactive artwork inspired by Rain Room.
+
+Vision and Inspiration
+
+Our project transforms the immersive experience of Rain Room into a calming digital weather simulation using p5.js. At the beginning, rain falls vertically with ambient thunder and wind sounds in the background. As thunder becomes louder, the rain intensity increases and the storm appears heavier. Stronger wind sounds cause the rain to tilt left or right, simulating natural weather movement. The experience runs as a looping 40–60 second atmospheric scene with constantly changing rain patterns and lighting conditions.
+
+We were inspired by the immersive atmosphere and environmental interaction of Rain Room. Instead of preventing rain from touching the user, our project focuses on creating a responsive ASMR-style digital environment that can be used as a relaxing background experience for focus, meditation, or ambience.
+
 ---
 ## Part1: Projection Direction
 
