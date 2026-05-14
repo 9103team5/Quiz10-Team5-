@@ -61,6 +61,16 @@ In our final project, I'd like to use time-based mechanics to create animate rai
 ### Sketch Images 2
 ![example 2](assets/rain%202.jpeg)
 
+## User Input
+### Responsible for Yue Zhao
+
+In this section, I aim to strengthen the immersive experience of the digital rain room by adding responsive user interaction. I plan to use the collide() function to design a movable umbrella or bowl-shaped prop. Users can control this tool by moving their mouse across the canvas to physically block falling raindrops. When raindrops collide with the prop, they disappear or splash visually. This interactive mechanic breaks passive viewing, allowing audiences to directly interfere with the rainfall. It cooperates with dynamic weather changes, enabling users to feel the realistic physical interaction within the simulated rainy environment.
+
+### Sketch Images 1
+![example 1](assets/collide%201.jpeg)
+
+### Sketch Images 2
+![example 2](assets/collide%202.jpeg)
 ---
 
 ## Perlin Noise
@@ -80,11 +90,7 @@ More importantly, I use the `noise()` function to simulate the continuous, unsee
 ![Perlin Noise Flow Example](assets/perlin%20noise%20wind%20force.png)
 *(Reference: The Coding Train - Perlin Noise Flow Field)*
 
-## User Input
-### Responsible for Yue Zhao
-
-In this section, I want audiences to immerse themselves in the rain room and gain interactive abilities. I plan to use the collide() function to create an umbrella or a bowl. Users can move the mouse to hold this prop and physically block the falling raindrops.
-
 ---
 
 ## Part 3: Putting It Together 
+All four mechanics work interdependently to build a cohesive immersive rain environment. Audio intensity controls rain volume and ambient wind effects, while time-based systems trigger gradual weather shifts including storms, wind gusts and lightning. Perlin noise and randomness generate organic raindrop movement, depth and flowing fog to enhance natural texture. Furthermore, user input allows audiences to block raindrops interactively. Unified by a muted atmospheric tone, these elements dynamically influence one another to form a continuous, meditative digital rain room.
