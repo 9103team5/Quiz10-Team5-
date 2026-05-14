@@ -49,17 +49,17 @@ Users mainly interact with this mechanic through experiencing the changing sound
 ## Time-based
 ### Responsible for Yue Zhao
 
-In our final project, I'd like to use time-based mechanics to create animate rainfall overtime. For instance, the rainfall may change from light rain to heavy storm, with lighting flashes, so as to visually present the transformation of the rain room. It strengthens the project’s realistic environmental aesthetic and reflects the natural unpredictability of rainstorms.
+In our final project, I'd like to use time-based mechanics to create animate rainfall overtime. For instance, the rainfall may change from light rain to heavy storm, or sudden gusts of wind that tilt the falling direction of the rain, also with lighting flashes, so as to visually present the transformation of the rain room. It strengthens the project’s realistic environmental aesthetic and reflects the natural unpredictability of rainstorms.
 
 ---
 
 ## Sketch Images
 
 ### Sketch Images 1
-![example 1](https://happycoding.io/tutorials/processing/images/input-1.gif)
+![example 1](assets/rain%201.jpeg)
 
 ### Sketch Images 2
-![example 2](https://happycoding.io/tutorials/processing/images/input-3.gif)
+![example 2](assets/rain%202.jpeg)
 
 ---
 
